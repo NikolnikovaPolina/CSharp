@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperReflexForm\\PaperReflexForm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\PaperModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\PaperModel.csproj",
+        "projectName": "PaperModel",
+        "projectPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\PaperModel.csproj",
+        "packagesPath": "C:\\Users\\alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperReflexForm\\PaperReflexForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperReflexForm\\PaperReflexForm.csproj",
+        "projectName": "PaperReflexForm",
+        "projectPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperReflexForm\\PaperReflexForm.csproj",
+        "packagesPath": "C:\\Users\\alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperReflexForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\PaperModel.csproj": {
+                "projectPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\lab 4\\PaperModel\\PaperModel.csproj"
+              },
+              "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\SharedForm.csproj": {
+                "projectPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\SharedForm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\SharedForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\SharedForm.csproj",
+        "projectName": "SharedForm",
+        "projectPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\SharedForm.csproj",
+        "packagesPath": "C:\\Users\\alexander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexander\\Desktop\\CSharp-master\\Shared\\SharedForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
